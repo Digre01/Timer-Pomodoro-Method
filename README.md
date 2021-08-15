@@ -3,7 +3,8 @@ a timer that will help you to study by the Pomodoro Technique
 
 HOW TO USE:
 use the shortcut named "Pomodoro Timer" for use to the app, put the directory where do you want
-the .exe file is inside "dist"
+
+the main.exe file is inside "dist"
 
 
 INFO:
